@@ -1,4 +1,4 @@
-// stop-watch.js
+// M.D by fkzl1234
 
 document.addEventListener("DOMContentLoaded", function () {
   const timerElement = document.querySelector(".stop-watch-timer");
